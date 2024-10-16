@@ -4,8 +4,8 @@ $(document).ready(function(){
 
     $("#botao-cadastrar").click(function(){
 
-        $("#form-cadastrar").slidetoggle("slow");
-        $("#section-login").slidetoggle("slow");
+        $("#form-cadastrar").slideToggle("slow");
+        $("#section-login").slideToggle("slow");
         $("#botao-cadastrar").hide();
         
     });
