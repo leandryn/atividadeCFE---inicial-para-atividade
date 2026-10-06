@@ -11,6 +11,7 @@ main {
 
 /*banner*/
 #section-banners img {
+  border-radius: 10px;
   height: 500px;
 }
 /*Produtos vendidos*/
@@ -83,4 +84,14 @@ footer p {
 #form-cadastrar {
   padding: 50px;
   display: none;
+}
+.card2 {
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+.card-body2 {
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
 }
